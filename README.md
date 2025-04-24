@@ -1,5 +1,6 @@
 [![Java CI with Gradle](https://github.com/scoverage/gradle-scoverage/actions/workflows/gradle.yml/badge.svg)](https://github.com/scoverage/gradle-scoverage/actions/workflows/gradle.yml)
 
+TEST
 
 gradle-scoverage
 ================
